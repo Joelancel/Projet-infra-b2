@@ -27,12 +27,11 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 ### Trello
 
 Lien vers notre planning des tâches à effectuer :
-()[]
+[Par ici](https://trello.com/b/FjyDZ8vH)
 
 ## RACI
 
-Mettre notre tableau **RACI** ici 
-()[]
+[Voici notre Tableau RACI](https://miro.com/welcomeonboard/NjRUTWp1YVEwQjN3emlXM09KRHE2cEtaMjNyTGFaMEVncWwzRnRlbFJDbWdvNWprY1ZVd0ZxTFlzRFRHaVJTWnwzNDU4NzY0NTkwMTE1NTIxNzAxfDI=?share_link_id=761897958977)
 
 ## Réalisation
 
