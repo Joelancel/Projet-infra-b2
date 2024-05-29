@@ -1,4 +1,4 @@
-# Projet-infra-b2
+<h1 align="center" text-center>Projet-infra-b2</h1>
 
 Ici vous retrouverez le déroulement du projet Infra dans ses moindres détails.
 De l'analyse des besoins du client à la validation du projet.
@@ -27,7 +27,7 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 ### Trello
 
 Lien vers notre planning des tâches à effectuer :
-[Par ici](https://trello.com/b/FjyDZ8vH)
+[Ici](https://trello.com/b/FjyDZ8vH)
 
 ## RACI
 
