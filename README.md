@@ -14,15 +14,15 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 
 ## Planification
 
-- Création d'un serveur AD/DHCP (4 comptes à créer : commercial, administratif, assistant et chef) avec les 4 postes Windows 10 ou 11 comme clients -> [***h***] ( Qui ? )
+- **Jalon 1** : Création d'un serveur AD/DHCP (4 comptes à créer : commercial, administratif, assistant et chef) avec les 4 postes Windows 10 ou 11 comme clients -> [***h***] ( Qui ? )
 
-- Création d'un serveur de fichier (arborescence avec 4 dossiers : Direction, commerce, commande et vie d’entreprise) -> [***h***] ( Qui ? )
+- **Jalon 2** : Création d'un serveur de fichier (arborescence avec 4 dossiers : Direction, commerce, commande et vie d’entreprise) -> [***h***] ( Qui ? )
 
-- Création d'un firewall pour la gestion de la sécurité réseau (VLAN, ouverture de flux) -> [***h***] ( Qui ? )
+- **Jalon 3** : Création d'un firewall pour la gestion de la sécurité réseau (VLAN, ouverture de flux) -> [***h***] ( Qui ? )
 
-- Création d'un serveur dit « applicatif » accès https pour le chef et le commercial -> [***h***] ( Qui ? )
+- **Jalon 4** : Création d'un serveur dit « applicatif » accès https pour le chef et le commercial -> [***h***] ( Qui ? )
 
-- Création des régles d'accès au dossiers par rôle dans l'entreprise -> [***h***] ( Qui ? )
+- Création des règles d'accès aux dossiers par rôle dans l'entreprise -> [***h***] ( Qui ? )
 
 ### Trello
 
@@ -35,7 +35,7 @@ Lien vers notre planning des tâches à effectuer :
 
 ## Réalisation
 
-- Mise en place des serveur windows (serveur par serveur)
+- Mise en place des serveurs Windows (serveur par serveur)
 - Réalisation des postes
 - Mise en place du firewall
 - Test de fonctionnement
@@ -44,5 +44,3 @@ Lien vers notre planning des tâches à effectuer :
 - Revue et acceptation par le client
 
 ### Réalisation de tests finaux
-
-
