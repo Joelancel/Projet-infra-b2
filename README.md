@@ -18,11 +18,11 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 
 - Création d'un serveur de fichier (arborescence avec 4 dossiers : Direction, commerce, commande et vie d’entreprise) -> [***h***] ( Qui ? )
 
+- Création des régles d'accès au dossiers par rôle dans l'entreprise -> [***h***] ( Qui ? )
+
 - Création d'un firewall pour la gestion de la sécurité réseau (VLAN, ouverture de flux) -> [***h***] ( Qui ? )
 
 - Création d'un serveur dit « applicatif » accès https pour le chef et le commercial -> [***h***] ( Qui ? )
-
-- Création des régles d'accès au dossiers par rôle dans l'entreprise -> [***h***] ( Qui ? )
 
 ### Trello
 
