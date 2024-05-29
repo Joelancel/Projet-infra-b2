@@ -18,11 +18,13 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 
 - **Jalon 2** : Création d'un serveur de fichier (arborescence avec 4 dossiers : Direction, commerce, commande et vie d’entreprise) -> [***h***] ( Qui ? )
 
+
 - **Jalon 3** : Création d'un firewall pour la gestion de la sécurité réseau (VLAN, ouverture de flux) -> [***h***] ( Qui ? )
 
-- **Jalon 4** : Création d'un serveur dit « applicatif » accès https pour le chef et le commercial -> [***h***] ( Qui ? )
+- **Jalon 4** : Création des régles d'accès au dossiers par rôle dans l'entreprise -> [***h***] ( Qui ? )
 
-- Création des règles d'accès aux dossiers par rôle dans l'entreprise -> [***h***] ( Qui ? )
+
+- **Jalon 5** : Création d'un serveur dit « applicatif » accès https pour le chef et le commercial -> [***h***] ( Qui ? )
 
 ### Trello
 
