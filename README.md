@@ -94,9 +94,11 @@ Adresses IP pour les VMs :
 
 ## Réalisation
 
+- Création du Readme (Mise à jour régulière)
 - Mise en place des serveurs Windows (serveur par serveur)
 - Réalisation des postes
 - Mise en place du firewall
+- Création du serveur de fichier
 - Test de fonctionnement
 
 ## Validation
