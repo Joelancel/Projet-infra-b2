@@ -104,5 +104,3 @@ Adresses IP pour les VMs :
 ## Validation
 
 - Revue et acceptation par le client
-
-### Réalisation de tests finaux
