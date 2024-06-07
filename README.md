@@ -14,18 +14,20 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 
 ## Planification
 
-- **Jalon 1** : Création d'un serveur AD/DHCP (4 comptes à créer : commercial, administratif, assistant et chef) avec les 4 postes Windows 10 ou 11 comme clients
+- **Jalon 1** : Création d'un Readme, mise à jour réguliére pour l'avancement du projet 
 
-- **Jalon 2** : Création d'un serveur de fichier (arborescence avec 4 dossiers : Direction, commerce, commande et vie d’entreprise)
+- **Jalon 2** : Création d'un serveur AD/DHCP (4 comptes à créer : commercial, administratif, assistant et chef) avec les 4 postes Windows 10 ou 11 comme clients
+
+- **Jalon 3** : Création d'un serveur de fichier (arborescence avec 4 dossiers : Direction, commerce, commande et vie d’entreprise)
 
 
-- **Jalon 3** : Création d'un firewall pour la gestion de la sécurité réseau (VLAN, ouverture de flux)
+- **Jalon 4** : Création d'un firewall pour la gestion de la sécurité réseau (VLAN, ouverture de flux)
 
-- **Jalon 4** : Création des régles d'accès au dossiers par rôle dans l'entreprise
+- **Jalon 5** : Création des régles d'accès au dossiers par rôle dans l'entreprise
 
-- **Jalon 5** : Création d'un serveur dit « applicatif » accès https pour le chef et le commercial
+- **Jalon 6** : Création d'un serveur dit « applicatif » accès https pour le chef et le commercial
 
-- **Jalon 6** : Création d'un Readme, mise à jour réguliére pour l'avancement du projet 
+
 
 ## Trello
 
@@ -37,7 +39,7 @@ Vous retrouverez ici, notre lien vers notre planning des tâches à effectuer po
 Pour notre schéma d'infrastructure, nous avons utliser PnetLab. Vous retrouverez l'image de notre schéma juste ici :
 
 <p align="center">
-<img src="infrastructure.png" alt="drawing" style="width:400px"/>
+<img src="infrastructure.png" alt="drawing" style="width:400px;border-radius:5%"/>
 </p>
 
 ## Client + Mot de passe
