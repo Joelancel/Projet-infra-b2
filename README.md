@@ -32,6 +32,14 @@ Pour le projet, Nous sommes **L'équipe**, l'intervenant et le **Client**.
 Vous retrouverez ici, notre lien vers notre planning des tâches à effectuer pour le projet :
 [Juste ici](https://trello.com/b/FjyDZ8vH)
 
+## Infrastructure (Pnetlab)
+
+Pour notre schéma d'infrastructure, nous avons utliser PnetLab. Vous retrouverez l'image de notre schéma juste ici :
+
+<p align="center">
+<img src="infrastructure.png" alt="drawing" style="width:400px"/>
+</p>
+
 ## Client + Mot de passe
 
 > Vous retrouverez ici, les noms des clients ainsi que leur mot de passe pour avoir accès au poste.
