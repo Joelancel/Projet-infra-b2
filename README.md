@@ -88,7 +88,7 @@ Adresses IP pour les VMs :
 
 ## RACI
 
-> Vous retrouverez ici, notre tableau de ***RACI*** avec les "Modes" pour chaque étape.
+> Vous retrouverez ici, notre tableau de ***RACI*** avec les rôles pour chaque étape.
 
 [Voici notre Tableau RACI](https://miro.com/welcomeonboard/NjRUTWp1YVEwQjN3emlXM09KRHE2cEtaMjNyTGFaMEVncWwzRnRlbFJDbWdvNWprY1ZVd0ZxTFlzRFRHaVJTWnwzNDU4NzY0NTkwMTE1NTIxNzAxfDI=?share_link_id=761897958977)
 
